@@ -130,12 +130,12 @@ These are Databricks notebooks exported in **`.ipynb`** format. They were author
 
 ## Databricks Job
 
-`Jobs/job_config.yaml` contains the exported Job definition: three tasks (Bronze → Silver → Gold) wired with sequential dependencies, so the whole pipeline runs end-to-end with a single **Run now** click.
+`Jobs/job_config.json` contains the exported Job definition: three tasks (Bronze → Silver → Gold) wired with sequential dependencies, so the whole pipeline runs end-to-end with a single **Run now** click.
 
 To recreate it in your own workspace:
 1. **Jobs & Pipelines** → **Create Job**.
-2. Click the **⋮** menu → **Edit as YAML**.
-3. Paste in the contents of `job_config.yaml`, adjusting the `notebook_path` values to match where you imported the notebooks in your workspace.
+2. Click the **⋮** menu → **Edit as JSON**.
+3. Paste in the contents of `job_config.json`, adjusting the `notebook_path` values to match where you imported the notebooks in your workspace.
 
 ## Documentation
 
