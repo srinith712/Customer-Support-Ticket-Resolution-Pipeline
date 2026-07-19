@@ -87,6 +87,23 @@ Customer-Support-Ticket-Resolution-Pipeline/
 | Day 2 Carry-over Rule | Agents who succeeded on Day 1 are excluded from Day 2 results |
 | Scope Filter | Only agents reporting to Team Leads TL01–TL08 are included |
 
+## Sample Outputs
+
+**Gold Layer — Team Performance**
+Ticket volume and average resolution time per Team Lead (TL01–TL08).
+
+![Team Performance](Docs/screenshots/gold_team_performance.png)
+
+**Gold Layer — Summary**
+Overall pipeline statistics across all 500 agents.
+
+![Gold Summary](Docs/screenshots/gold_summary.png)
+
+**Databricks Job — Successful End-to-End Run**
+Config → Bronze → Silver → Gold, all tasks completed successfully.
+
+![Job Run](Docs/screenshots/job_run_success.png)
+
 ## Notebooks
 
 | Notebook | Purpose |
@@ -127,10 +144,12 @@ These are Databricks notebooks exported in **`.ipynb`** format. They were author
 ### Requirements
 - Databricks workspace with Unity Catalog enabled (Free Edition is sufficient)
 - No external cloud credentials required — uses Unity Catalog Volumes for file storage
-
+  
 ## Databricks Job
 
-`Jobs/job_config.json` contains the exported Job definition: three tasks (Bronze → Silver → Gold) wired with sequential dependencies, so the whole pipeline runs end-to-end with a single **Run now** click.
+`Jobs/job_config.json` contains the exported Job definition: four sequential tasks
+(`Config → Bronze → Silver → Gold`), so the whole pipeline runs end-to-end with a
+single **Run now** click.
 
 To recreate it in your own workspace:
 1. **Jobs & Pipelines** → **Create Job**.
