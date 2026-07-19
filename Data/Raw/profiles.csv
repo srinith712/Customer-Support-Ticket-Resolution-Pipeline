@@ -1,0 +1,501 @@
+agent_id,agent_name,team_lead,department,experience_years,location,joining_date,shift,email
+A0001,Priya Sharma,TL05,Billing,4,Bangalore,2022-01-01,Night,agent1@company.com
+A0002,Priya Reddy,TL07,Technical Support,1,Hyderabad,2022-01-01,Morning,agent2@company.com
+A0003,Neha Sharma,TL04,Customer Care,4,Pune,2022-01-01,Night,agent3@company.com
+A0004,Vikram Sharma,TL03,Customer Care,6,Chennai,2022-01-01,Morning,agent4@company.com
+A0005,Neha Gupta,TL02,Technical Support,7,Hyderabad,2022-01-01,Evening,agent5@company.com
+A0006,Sneha Singh,TL01,Customer Care,9,Hyderabad,2022-01-01,Evening,agent6@company.com
+A0007,Priya Singh,TL06,Billing,12,Hyderabad,2022-01-01,Morning,agent7@company.com
+A0008,Neha Singh,TL02,Billing,2,Pune,2022-01-01,Evening,agent8@company.com
+A0009,Pooja Gupta,TL03,Returns,6,Bangalore,2022-01-01,Night,agent9@company.com
+A0010,Vikram Reddy,TL03,Billing,3,Pune,2022-01-01,Evening,agent10@company.com
+A0011,Vikram Verma,TL06,Technical Support,4,Hyderabad,2022-01-01,Evening,agent11@company.com
+A0012,Amit Singh,TL02,Billing,10,Chennai,2022-01-01,Morning,agent12@company.com
+A0013,Pooja Kumar,TL08,Billing,5,Bangalore,2022-01-01,Morning,agent13@company.com
+A0014,Rohit Singh,TL07,Customer Care,6,Bangalore,2022-01-01,Morning,agent14@company.com
+A0015,Rohit Iyer,TL02,Technical Support,2,Bangalore,2022-01-01,Night,agent15@company.com
+A0016,Arjun Kumar,TL02,Customer Care,7,Delhi,2022-01-01,Evening,agent16@company.com
+A0017,Rohit Singh,TL01,Technical Support,11,Delhi,2022-01-01,Evening,agent17@company.com
+A0018,Sneha Reddy,TL05,Customer Care,3,Pune,2022-01-01,Morning,agent18@company.com
+A0019,Vikram Patel,TL02,Returns,11,Delhi,2022-01-01,Night,agent19@company.com
+A0020,Neha Patel,TL06,Billing,9,Delhi,2022-01-01,Morning,agent20@company.com
+A0021,Anjali Gupta,TL08,Technical Support,2,Chennai,2022-01-01,Evening,agent21@company.com
+A0022,Neha Sharma,TL04,Technical Support,2,Pune,2022-01-01,Morning,agent22@company.com
+A0023,Rohit Patel,TL03,Customer Care,9,Bangalore,2022-01-01,Evening,agent23@company.com
+A0024,Rohit Kumar,TL04,Billing,12,Chennai,2022-01-01,Evening,agent24@company.com
+A0025,Sneha Iyer,TL08,Technical Support,4,Bangalore,2022-01-01,Morning,agent25@company.com
+A0026,Sneha Sharma,TL04,Billing,1,Hyderabad,2022-01-01,Night,agent26@company.com
+A0027,Rahul Verma,TL02,Technical Support,6,Hyderabad,2022-01-01,Night,agent27@company.com
+A0028,Neha Singh,TL08,Billing,9,Bangalore,2022-01-01,Night,agent28@company.com
+A0029,Anjali Iyer,TL04,Customer Care,7,Bangalore,2022-01-01,Morning,agent29@company.com
+A0030,Priya Kumar,TL06,Customer Care,7,Pune,2022-01-01,Night,agent30@company.com
+A0031,Rahul Reddy,TL01,Customer Care,12,Chennai,2022-01-01,Morning,agent31@company.com
+A0032,Neha Verma,TL04,Customer Care,3,Pune,2022-01-01,Morning,agent32@company.com
+A0033,Vikram Iyer,TL04,Technical Support,8,Delhi,2022-01-01,Morning,agent33@company.com
+A0034,Rahul Sharma,TL02,Billing,3,Pune,2022-01-01,Evening,agent34@company.com
+A0035,Pooja Verma,TL07,Technical Support,3,Pune,2022-01-01,Morning,agent35@company.com
+A0036,Amit Singh,TL08,Returns,7,Delhi,2022-01-01,Night,agent36@company.com
+A0037,Pooja Patel,TL04,Returns,4,Hyderabad,2022-01-01,Night,agent37@company.com
+A0038,Rohit Sharma,TL06,Technical Support,1,Delhi,2022-01-01,Evening,agent38@company.com
+A0039,Rohit Patel,TL01,Technical Support,3,Hyderabad,2022-01-01,Night,agent39@company.com
+A0040,Priya Verma,TL07,Technical Support,10,Bangalore,2022-01-01,Night,agent40@company.com
+A0041,Anjali Sharma,TL02,Customer Care,11,Delhi,2022-01-01,Night,agent41@company.com
+A0042,Rohit Gupta,TL05,Billing,11,Chennai,2022-01-01,Morning,agent42@company.com
+A0043,Vikram Kumar,TL03,Returns,8,Chennai,2022-01-01,Morning,agent43@company.com
+A0044,Rahul Iyer,TL02,Technical Support,9,Bangalore,2022-01-01,Night,agent44@company.com
+A0045,Vikram Patel,TL06,Technical Support,4,Chennai,2022-01-01,Evening,agent45@company.com
+A0046,Arjun Iyer,TL05,Technical Support,11,Delhi,2022-01-01,Evening,agent46@company.com
+A0047,Priya Patel,TL05,Technical Support,2,Delhi,2022-01-01,Morning,agent47@company.com
+A0048,Vikram Singh,TL04,Returns,4,Chennai,2022-01-01,Night,agent48@company.com
+A0049,Pooja Singh,TL01,Technical Support,11,Pune,2022-01-01,Evening,agent49@company.com
+A0050,Rahul Sharma,TL06,Billing,11,Chennai,2022-01-01,Morning,agent50@company.com
+A0051,Pooja Kumar,TL01,Technical Support,2,Bangalore,2022-01-01,Night,agent51@company.com
+A0052,Rahul Gupta,TL03,Customer Care,3,Hyderabad,2022-01-01,Evening,agent52@company.com
+A0053,Sneha Sharma,TL06,Billing,11,Bangalore,2022-01-01,Night,agent53@company.com
+A0054,Priya Gupta,TL07,Billing,4,Bangalore,2022-01-01,Morning,agent54@company.com
+A0055,Amit Sharma,TL03,Returns,7,Bangalore,2022-01-01,Evening,agent55@company.com
+A0056,Arjun Reddy,TL07,Technical Support,8,Bangalore,2022-01-01,Morning,agent56@company.com
+A0057,Pooja Gupta,TL05,Billing,4,Hyderabad,2022-01-01,Night,agent57@company.com
+A0058,Neha Kumar,TL06,Returns,2,Chennai,2022-01-01,Evening,agent58@company.com
+A0059,Rohit Kumar,TL06,Technical Support,2,Chennai,2022-01-01,Morning,agent59@company.com
+A0060,Anjali Singh,TL01,Technical Support,10,Pune,2022-01-01,Evening,agent60@company.com
+A0061,Sneha Kumar,TL02,Customer Care,10,Bangalore,2022-01-01,Evening,agent61@company.com
+A0062,Rahul Kumar,TL01,Billing,6,Pune,2022-01-01,Morning,agent62@company.com
+A0063,Sneha Gupta,TL02,Returns,9,Chennai,2022-01-01,Night,agent63@company.com
+A0064,Amit Gupta,TL07,Returns,9,Bangalore,2022-01-01,Morning,agent64@company.com
+A0065,Amit Kumar,TL03,Returns,7,Delhi,2022-01-01,Morning,agent65@company.com
+A0066,Vikram Singh,TL04,Customer Care,10,Delhi,2022-01-01,Night,agent66@company.com
+A0067,Sneha Iyer,TL08,Customer Care,11,Bangalore,2022-01-01,Night,agent67@company.com
+A0068,Pooja Patel,TL02,Returns,9,Delhi,2022-01-01,Evening,agent68@company.com
+A0069,Priya Verma,TL05,Billing,4,Bangalore,2022-01-01,Morning,agent69@company.com
+A0070,Rahul Verma,TL08,Technical Support,8,Pune,2022-01-01,Night,agent70@company.com
+A0071,Anjali Verma,TL07,Customer Care,7,Bangalore,2022-01-01,Morning,agent71@company.com
+A0072,Rahul Reddy,TL07,Billing,3,Delhi,2022-01-01,Evening,agent72@company.com
+A0073,Rahul Verma,TL02,Customer Care,3,Pune,2022-01-01,Night,agent73@company.com
+A0074,Rohit Gupta,TL08,Customer Care,9,Pune,2022-01-01,Morning,agent74@company.com
+A0075,Pooja Iyer,TL05,Billing,11,Chennai,2022-01-01,Night,agent75@company.com
+A0076,Pooja Verma,TL05,Customer Care,2,Chennai,2022-01-01,Morning,agent76@company.com
+A0077,Vikram Gupta,TL06,Technical Support,3,Bangalore,2022-01-01,Morning,agent77@company.com
+A0078,Amit Patel,TL04,Technical Support,7,Pune,2022-01-01,Evening,agent78@company.com
+A0079,Rohit Iyer,TL07,Technical Support,4,Pune,2022-01-01,Evening,agent79@company.com
+A0080,Anjali Sharma,TL07,Customer Care,1,Chennai,2022-01-01,Evening,agent80@company.com
+A0081,Amit Kumar,TL04,Customer Care,4,Chennai,2022-01-01,Evening,agent81@company.com
+A0082,Pooja Sharma,TL07,Returns,11,Pune,2022-01-01,Night,agent82@company.com
+A0083,Arjun Iyer,TL03,Technical Support,7,Delhi,2022-01-01,Night,agent83@company.com
+A0084,Rahul Reddy,TL07,Billing,8,Bangalore,2022-01-01,Morning,agent84@company.com
+A0085,Vikram Kumar,TL06,Billing,8,Chennai,2022-01-01,Evening,agent85@company.com
+A0086,Amit Singh,TL07,Returns,2,Pune,2022-01-01,Morning,agent86@company.com
+A0087,Rohit Sharma,TL06,Billing,11,Hyderabad,2022-01-01,Night,agent87@company.com
+A0088,Rahul Sharma,TL04,Billing,1,Delhi,2022-01-01,Morning,agent88@company.com
+A0089,Neha Patel,TL08,Technical Support,10,Bangalore,2022-01-01,Evening,agent89@company.com
+A0090,Vikram Gupta,TL03,Technical Support,3,Chennai,2022-01-01,Morning,agent90@company.com
+A0091,Anjali Sharma,TL05,Customer Care,7,Bangalore,2022-01-01,Morning,agent91@company.com
+A0092,Anjali Verma,TL02,Returns,11,Delhi,2022-01-01,Morning,agent92@company.com
+A0093,Anjali Sharma,TL06,Customer Care,11,Chennai,2022-01-01,Morning,agent93@company.com
+A0094,Rohit Gupta,TL01,Customer Care,8,Hyderabad,2022-01-01,Evening,agent94@company.com
+A0095,Sneha Iyer,TL03,Customer Care,3,Delhi,2022-01-01,Night,agent95@company.com
+A0096,Vikram Iyer,TL08,Customer Care,12,Delhi,2022-01-01,Evening,agent96@company.com
+A0097,Sneha Verma,TL02,Returns,8,Bangalore,2022-01-01,Evening,agent97@company.com
+A0098,Anjali Kumar,TL06,Technical Support,8,Chennai,2022-01-01,Morning,agent98@company.com
+A0099,Pooja Verma,TL06,Returns,6,Chennai,2022-01-01,Night,agent99@company.com
+A0100,Vikram Sharma,TL04,Technical Support,4,Pune,2022-01-01,Evening,agent100@company.com
+A0101,Rohit Verma,TL08,Customer Care,8,Hyderabad,2022-01-01,Morning,agent101@company.com
+A0102,Vikram Verma,TL07,Billing,5,Delhi,2022-01-01,Evening,agent102@company.com
+A0103,Pooja Gupta,TL07,Returns,6,Pune,2022-01-01,Evening,agent103@company.com
+A0104,Vikram Singh,TL04,Technical Support,12,Bangalore,2022-01-01,Evening,agent104@company.com
+A0105,Priya Patel,TL04,Billing,12,Pune,2022-01-01,Evening,agent105@company.com
+A0106,Anjali Singh,TL02,Billing,5,Bangalore,2022-01-01,Evening,agent106@company.com
+A0107,Arjun Singh,TL01,Billing,5,Hyderabad,2022-01-01,Morning,agent107@company.com
+A0108,Rohit Singh,TL03,Customer Care,2,Hyderabad,2022-01-01,Night,agent108@company.com
+A0109,Vikram Iyer,TL08,Customer Care,6,Bangalore,2022-01-01,Morning,agent109@company.com
+A0110,Vikram Iyer,TL02,Technical Support,7,Pune,2022-01-01,Morning,agent110@company.com
+A0111,Anjali Sharma,TL03,Billing,10,Chennai,2022-01-01,Morning,agent111@company.com
+A0112,Neha Reddy,TL07,Billing,9,Pune,2022-01-01,Evening,agent112@company.com
+A0113,Pooja Singh,TL07,Returns,10,Delhi,2022-01-01,Morning,agent113@company.com
+A0114,Anjali Reddy,TL04,Billing,5,Hyderabad,2022-01-01,Morning,agent114@company.com
+A0115,Neha Patel,TL02,Billing,1,Pune,2022-01-01,Evening,agent115@company.com
+A0116,Anjali Iyer,TL05,Technical Support,4,Chennai,2022-01-01,Night,agent116@company.com
+A0117,Vikram Iyer,TL02,Billing,5,Delhi,2022-01-01,Night,agent117@company.com
+A0118,Neha Kumar,TL02,Billing,11,Bangalore,2022-01-01,Evening,agent118@company.com
+A0119,Arjun Reddy,TL01,Billing,5,Delhi,2022-01-01,Night,agent119@company.com
+A0120,Anjali Singh,TL08,Technical Support,8,Chennai,2022-01-01,Night,agent120@company.com
+A0121,Amit Singh,TL08,Customer Care,2,Delhi,2022-01-01,Morning,agent121@company.com
+A0122,Amit Gupta,TL05,Technical Support,2,Bangalore,2022-01-01,Night,agent122@company.com
+A0123,Anjali Sharma,TL05,Technical Support,3,Pune,2022-01-01,Night,agent123@company.com
+A0124,Pooja Singh,TL03,Customer Care,11,Pune,2022-01-01,Morning,agent124@company.com
+A0125,Pooja Gupta,TL07,Returns,6,Hyderabad,2022-01-01,Morning,agent125@company.com
+A0126,Sneha Kumar,TL08,Returns,11,Pune,2022-01-01,Night,agent126@company.com
+A0127,Rahul Iyer,TL02,Returns,5,Chennai,2022-01-01,Morning,agent127@company.com
+A0128,Amit Sharma,TL08,Customer Care,1,Bangalore,2022-01-01,Night,agent128@company.com
+A0129,Sneha Iyer,TL08,Technical Support,4,Chennai,2022-01-01,Night,agent129@company.com
+A0130,Arjun Singh,TL08,Customer Care,2,Hyderabad,2022-01-01,Night,agent130@company.com
+A0131,Anjali Verma,TL03,Returns,9,Hyderabad,2022-01-01,Night,agent131@company.com
+A0132,Amit Reddy,TL04,Technical Support,8,Hyderabad,2022-01-01,Night,agent132@company.com
+A0133,Arjun Iyer,TL05,Returns,7,Pune,2022-01-01,Evening,agent133@company.com
+A0134,Neha Iyer,TL03,Customer Care,4,Delhi,2022-01-01,Night,agent134@company.com
+A0135,Arjun Reddy,TL05,Customer Care,6,Delhi,2022-01-01,Evening,agent135@company.com
+A0136,Rahul Singh,TL05,Customer Care,3,Pune,2022-01-01,Night,agent136@company.com
+A0137,Pooja Gupta,TL06,Customer Care,8,Chennai,2022-01-01,Morning,agent137@company.com
+A0138,Neha Kumar,TL04,Customer Care,1,Chennai,2022-01-01,Night,agent138@company.com
+A0139,Pooja Kumar,TL07,Billing,8,Hyderabad,2022-01-01,Morning,agent139@company.com
+A0140,Rohit Gupta,TL02,Customer Care,2,Delhi,2022-01-01,Evening,agent140@company.com
+A0141,Rahul Patel,TL07,Billing,2,Pune,2022-01-01,Evening,agent141@company.com
+A0142,Sneha Kumar,TL02,Returns,11,Delhi,2022-01-01,Evening,agent142@company.com
+A0143,Sneha Iyer,TL01,Technical Support,4,Chennai,2022-01-01,Morning,agent143@company.com
+A0144,Priya Kumar,TL02,Technical Support,8,Bangalore,2022-01-01,Night,agent144@company.com
+A0145,Vikram Sharma,TL01,Returns,1,Chennai,2022-01-01,Evening,agent145@company.com
+A0146,Sneha Kumar,TL03,Billing,9,Pune,2022-01-01,Night,agent146@company.com
+A0147,Arjun Patel,TL03,Technical Support,10,Pune,2022-01-01,Night,agent147@company.com
+A0148,Neha Iyer,TL03,Billing,8,Chennai,2022-01-01,Evening,agent148@company.com
+A0149,Vikram Sharma,TL08,Returns,11,Delhi,2022-01-01,Morning,agent149@company.com
+A0150,Priya Iyer,TL06,Returns,11,Pune,2022-01-01,Night,agent150@company.com
+A0151,Vikram Iyer,TL05,Billing,7,Pune,2022-01-01,Morning,agent151@company.com
+A0152,Neha Kumar,TL06,Returns,12,Chennai,2022-01-01,Morning,agent152@company.com
+A0153,Amit Singh,TL01,Technical Support,10,Pune,2022-01-01,Evening,agent153@company.com
+A0154,Neha Gupta,TL04,Billing,10,Chennai,2022-01-01,Night,agent154@company.com
+A0155,Arjun Reddy,TL01,Returns,8,Hyderabad,2022-01-01,Night,agent155@company.com
+A0156,Sneha Patel,TL02,Returns,6,Pune,2022-01-01,Morning,agent156@company.com
+A0157,Neha Patel,TL06,Returns,3,Chennai,2022-01-01,Evening,agent157@company.com
+A0158,Vikram Gupta,TL02,Customer Care,2,Bangalore,2022-01-01,Morning,agent158@company.com
+A0159,Amit Gupta,TL02,Customer Care,1,Chennai,2022-01-01,Night,agent159@company.com
+A0160,Priya Iyer,TL06,Returns,10,Pune,2022-01-01,Night,agent160@company.com
+A0161,Sneha Reddy,TL04,Customer Care,1,Delhi,2022-01-01,Night,agent161@company.com
+A0162,Sneha Verma,TL02,Customer Care,12,Chennai,2022-01-01,Night,agent162@company.com
+A0163,Amit Reddy,TL03,Technical Support,1,Chennai,2022-01-01,Evening,agent163@company.com
+A0164,Priya Reddy,TL04,Billing,7,Pune,2022-01-01,Evening,agent164@company.com
+A0165,Rohit Kumar,TL03,Customer Care,11,Hyderabad,2022-01-01,Evening,agent165@company.com
+A0166,Anjali Kumar,TL05,Technical Support,12,Chennai,2022-01-01,Morning,agent166@company.com
+A0167,Pooja Iyer,TL04,Returns,2,Chennai,2022-01-01,Night,agent167@company.com
+A0168,Sneha Sharma,TL07,Returns,4,Hyderabad,2022-01-01,Evening,agent168@company.com
+A0169,Priya Verma,TL01,Technical Support,6,Bangalore,2022-01-01,Morning,agent169@company.com
+A0170,Anjali Verma,TL02,Billing,10,Bangalore,2022-01-01,Morning,agent170@company.com
+A0171,Sneha Patel,TL01,Returns,3,Bangalore,2022-01-01,Night,agent171@company.com
+A0172,Vikram Patel,TL02,Technical Support,3,Hyderabad,2022-01-01,Evening,agent172@company.com
+A0173,Neha Gupta,TL01,Billing,5,Hyderabad,2022-01-01,Morning,agent173@company.com
+A0174,Amit Reddy,TL02,Customer Care,8,Chennai,2022-01-01,Night,agent174@company.com
+A0175,Anjali Reddy,TL08,Billing,10,Hyderabad,2022-01-01,Night,agent175@company.com
+A0176,Rohit Singh,TL08,Technical Support,1,Pune,2022-01-01,Evening,agent176@company.com
+A0177,Amit Reddy,TL08,Customer Care,2,Hyderabad,2022-01-01,Evening,agent177@company.com
+A0178,Anjali Patel,TL02,Billing,5,Delhi,2022-01-01,Night,agent178@company.com
+A0179,Anjali Gupta,TL07,Returns,8,Delhi,2022-01-01,Night,agent179@company.com
+A0180,Amit Reddy,TL02,Billing,7,Pune,2022-01-01,Morning,agent180@company.com
+A0181,Amit Gupta,TL08,Customer Care,7,Hyderabad,2022-01-01,Evening,agent181@company.com
+A0182,Amit Gupta,TL05,Returns,3,Pune,2022-01-01,Morning,agent182@company.com
+A0183,Priya Reddy,TL02,Customer Care,2,Chennai,2022-01-01,Morning,agent183@company.com
+A0184,Rohit Sharma,TL06,Technical Support,7,Chennai,2022-01-01,Night,agent184@company.com
+A0185,Amit Sharma,TL05,Returns,6,Hyderabad,2022-01-01,Night,agent185@company.com
+A0186,Rohit Verma,TL03,Customer Care,4,Hyderabad,2022-01-01,Evening,agent186@company.com
+A0187,Rohit Gupta,TL02,Returns,10,Bangalore,2022-01-01,Evening,agent187@company.com
+A0188,Rohit Sharma,TL05,Technical Support,3,Chennai,2022-01-01,Night,agent188@company.com
+A0189,Vikram Gupta,TL06,Technical Support,3,Bangalore,2022-01-01,Night,agent189@company.com
+A0190,Amit Reddy,TL03,Technical Support,2,Delhi,2022-01-01,Morning,agent190@company.com
+A0191,Amit Kumar,TL08,Returns,3,Chennai,2022-01-01,Evening,agent191@company.com
+A0192,Sneha Reddy,TL01,Billing,3,Delhi,2022-01-01,Morning,agent192@company.com
+A0193,Priya Singh,TL08,Customer Care,8,Delhi,2022-01-01,Evening,agent193@company.com
+A0194,Amit Singh,TL04,Technical Support,6,Pune,2022-01-01,Morning,agent194@company.com
+A0195,Vikram Iyer,TL05,Technical Support,4,Pune,2022-01-01,Night,agent195@company.com
+A0196,Rahul Sharma,TL04,Returns,4,Bangalore,2022-01-01,Evening,agent196@company.com
+A0197,Vikram Gupta,TL02,Technical Support,8,Pune,2022-01-01,Morning,agent197@company.com
+A0198,Arjun Kumar,TL04,Returns,2,Pune,2022-01-01,Night,agent198@company.com
+A0199,Rahul Kumar,TL01,Customer Care,2,Chennai,2022-01-01,Night,agent199@company.com
+A0200,Amit Kumar,TL07,Returns,2,Pune,2022-01-01,Morning,agent200@company.com
+A0201,Sneha Patel,TL08,Returns,2,Pune,2022-01-01,Morning,agent201@company.com
+A0202,Neha Kumar,TL07,Technical Support,7,Chennai,2022-01-01,Night,agent202@company.com
+A0203,Sneha Verma,TL06,Billing,2,Delhi,2022-01-01,Night,agent203@company.com
+A0204,Priya Verma,TL06,Returns,12,Bangalore,2022-01-01,Morning,agent204@company.com
+A0205,Priya Patel,TL05,Billing,3,Delhi,2022-01-01,Morning,agent205@company.com
+A0206,Priya Patel,TL08,Customer Care,10,Delhi,2022-01-01,Evening,agent206@company.com
+A0207,Anjali Gupta,TL06,Billing,8,Hyderabad,2022-01-01,Evening,agent207@company.com
+A0208,Pooja Singh,TL05,Technical Support,6,Delhi,2022-01-01,Morning,agent208@company.com
+A0209,Vikram Iyer,TL08,Technical Support,1,Chennai,2022-01-01,Evening,agent209@company.com
+A0210,Priya Reddy,TL07,Customer Care,10,Delhi,2022-01-01,Night,agent210@company.com
+A0211,Rahul Iyer,TL04,Returns,10,Pune,2022-01-01,Night,agent211@company.com
+A0212,Arjun Sharma,TL08,Technical Support,6,Hyderabad,2022-01-01,Night,agent212@company.com
+A0213,Arjun Sharma,TL04,Customer Care,8,Delhi,2022-01-01,Night,agent213@company.com
+A0214,Anjali Patel,TL06,Returns,5,Pune,2022-01-01,Evening,agent214@company.com
+A0215,Sneha Sharma,TL06,Technical Support,6,Hyderabad,2022-01-01,Night,agent215@company.com
+A0216,Amit Singh,TL05,Billing,6,Hyderabad,2022-01-01,Night,agent216@company.com
+A0217,Arjun Gupta,TL05,Customer Care,3,Delhi,2022-01-01,Night,agent217@company.com
+A0218,Priya Singh,TL07,Returns,3,Delhi,2022-01-01,Morning,agent218@company.com
+A0219,Amit Gupta,TL01,Returns,5,Bangalore,2022-01-01,Morning,agent219@company.com
+A0220,Sneha Iyer,TL04,Billing,3,Bangalore,2022-01-01,Morning,agent220@company.com
+A0221,Vikram Reddy,TL01,Returns,10,Bangalore,2022-01-01,Night,agent221@company.com
+A0222,Amit Patel,TL03,Billing,12,Delhi,2022-01-01,Morning,agent222@company.com
+A0223,Pooja Sharma,TL07,Returns,11,Bangalore,2022-01-01,Evening,agent223@company.com
+A0224,Anjali Singh,TL08,Billing,9,Bangalore,2022-01-01,Evening,agent224@company.com
+A0225,Pooja Verma,TL06,Customer Care,8,Chennai,2022-01-01,Evening,agent225@company.com
+A0226,Rohit Kumar,TL03,Billing,10,Bangalore,2022-01-01,Evening,agent226@company.com
+A0227,Rahul Iyer,TL06,Technical Support,12,Delhi,2022-01-01,Morning,agent227@company.com
+A0228,Vikram Reddy,TL03,Returns,8,Delhi,2022-01-01,Morning,agent228@company.com
+A0229,Amit Reddy,TL04,Customer Care,6,Hyderabad,2022-01-01,Evening,agent229@company.com
+A0230,Rahul Kumar,TL06,Billing,7,Hyderabad,2022-01-01,Evening,agent230@company.com
+A0231,Neha Sharma,TL06,Technical Support,12,Chennai,2022-01-01,Morning,agent231@company.com
+A0232,Arjun Sharma,TL05,Customer Care,12,Bangalore,2022-01-01,Night,agent232@company.com
+A0233,Pooja Iyer,TL01,Technical Support,1,Chennai,2022-01-01,Morning,agent233@company.com
+A0234,Arjun Kumar,TL02,Returns,4,Chennai,2022-01-01,Morning,agent234@company.com
+A0235,Rahul Verma,TL07,Customer Care,2,Hyderabad,2022-01-01,Evening,agent235@company.com
+A0236,Anjali Sharma,TL04,Billing,5,Pune,2022-01-01,Morning,agent236@company.com
+A0237,Anjali Gupta,TL04,Customer Care,3,Hyderabad,2022-01-01,Night,agent237@company.com
+A0238,Sneha Reddy,TL01,Customer Care,8,Hyderabad,2022-01-01,Night,agent238@company.com
+A0239,Amit Gupta,TL05,Technical Support,6,Hyderabad,2022-01-01,Evening,agent239@company.com
+A0240,Neha Reddy,TL06,Billing,1,Chennai,2022-01-01,Night,agent240@company.com
+A0241,Sneha Patel,TL08,Customer Care,11,Bangalore,2022-01-01,Morning,agent241@company.com
+A0242,Priya Iyer,TL01,Returns,4,Hyderabad,2022-01-01,Morning,agent242@company.com
+A0243,Rahul Gupta,TL05,Customer Care,9,Pune,2022-01-01,Evening,agent243@company.com
+A0244,Rahul Verma,TL05,Returns,1,Chennai,2022-01-01,Evening,agent244@company.com
+A0245,Priya Gupta,TL07,Customer Care,12,Pune,2022-01-01,Evening,agent245@company.com
+A0246,Sneha Patel,TL08,Customer Care,6,Delhi,2022-01-01,Evening,agent246@company.com
+A0247,Priya Kumar,TL02,Customer Care,10,Bangalore,2022-01-01,Night,agent247@company.com
+A0248,Vikram Gupta,TL02,Technical Support,6,Chennai,2022-01-01,Evening,agent248@company.com
+A0249,Pooja Kumar,TL03,Customer Care,6,Pune,2022-01-01,Morning,agent249@company.com
+A0250,Sneha Kumar,TL05,Technical Support,2,Pune,2022-01-01,Evening,agent250@company.com
+A0251,Rohit Patel,TL01,Billing,10,Pune,2022-01-01,Morning,agent251@company.com
+A0252,Arjun Reddy,TL04,Returns,6,Pune,2022-01-01,Night,agent252@company.com
+A0253,Rahul Patel,TL08,Returns,6,Pune,2022-01-01,Morning,agent253@company.com
+A0254,Anjali Patel,TL06,Customer Care,6,Chennai,2022-01-01,Morning,agent254@company.com
+A0255,Priya Sharma,TL03,Customer Care,9,Pune,2022-01-01,Night,agent255@company.com
+A0256,Priya Singh,TL05,Customer Care,4,Delhi,2022-01-01,Evening,agent256@company.com
+A0257,Pooja Verma,TL02,Billing,2,Pune,2022-01-01,Morning,agent257@company.com
+A0258,Pooja Reddy,TL06,Returns,12,Hyderabad,2022-01-01,Night,agent258@company.com
+A0259,Rohit Singh,TL05,Billing,12,Bangalore,2022-01-01,Evening,agent259@company.com
+A0260,Rohit Verma,TL02,Billing,3,Bangalore,2022-01-01,Evening,agent260@company.com
+A0261,Rahul Gupta,TL06,Customer Care,9,Bangalore,2022-01-01,Night,agent261@company.com
+A0262,Priya Reddy,TL05,Customer Care,12,Pune,2022-01-01,Night,agent262@company.com
+A0263,Amit Kumar,TL02,Billing,6,Hyderabad,2022-01-01,Evening,agent263@company.com
+A0264,Pooja Gupta,TL03,Billing,3,Pune,2022-01-01,Night,agent264@company.com
+A0265,Rahul Reddy,TL03,Returns,3,Bangalore,2022-01-01,Evening,agent265@company.com
+A0266,Neha Gupta,TL05,Technical Support,5,Bangalore,2022-01-01,Night,agent266@company.com
+A0267,Rohit Singh,TL03,Returns,10,Delhi,2022-01-01,Morning,agent267@company.com
+A0268,Rohit Patel,TL03,Billing,11,Delhi,2022-01-01,Night,agent268@company.com
+A0269,Anjali Gupta,TL01,Technical Support,2,Hyderabad,2022-01-01,Night,agent269@company.com
+A0270,Anjali Singh,TL04,Customer Care,10,Hyderabad,2022-01-01,Evening,agent270@company.com
+A0271,Rohit Singh,TL05,Customer Care,4,Pune,2022-01-01,Evening,agent271@company.com
+A0272,Pooja Reddy,TL01,Billing,8,Pune,2022-01-01,Evening,agent272@company.com
+A0273,Pooja Verma,TL06,Billing,6,Chennai,2022-01-01,Night,agent273@company.com
+A0274,Sneha Kumar,TL03,Returns,9,Delhi,2022-01-01,Morning,agent274@company.com
+A0275,Sneha Verma,TL08,Technical Support,5,Pune,2022-01-01,Morning,agent275@company.com
+A0276,Arjun Reddy,TL01,Returns,7,Delhi,2022-01-01,Evening,agent276@company.com
+A0277,Neha Patel,TL06,Returns,4,Bangalore,2022-01-01,Evening,agent277@company.com
+A0278,Rohit Iyer,TL08,Returns,8,Hyderabad,2022-01-01,Morning,agent278@company.com
+A0279,Amit Iyer,TL04,Billing,10,Chennai,2022-01-01,Morning,agent279@company.com
+A0280,Rahul Singh,TL08,Customer Care,5,Delhi,2022-01-01,Morning,agent280@company.com
+A0281,Priya Kumar,TL03,Returns,12,Chennai,2022-01-01,Evening,agent281@company.com
+A0282,Sneha Sharma,TL07,Technical Support,10,Delhi,2022-01-01,Morning,agent282@company.com
+A0283,Sneha Singh,TL02,Customer Care,9,Pune,2022-01-01,Night,agent283@company.com
+A0284,Vikram Reddy,TL03,Technical Support,7,Chennai,2022-01-01,Evening,agent284@company.com
+A0285,Rohit Gupta,TL03,Billing,10,Delhi,2022-01-01,Evening,agent285@company.com
+A0286,Rohit Sharma,TL01,Technical Support,3,Chennai,2022-01-01,Evening,agent286@company.com
+A0287,Rohit Iyer,TL03,Billing,6,Delhi,2022-01-01,Evening,agent287@company.com
+A0288,Arjun Kumar,TL05,Returns,9,Delhi,2022-01-01,Night,agent288@company.com
+A0289,Pooja Singh,TL08,Technical Support,6,Chennai,2022-01-01,Night,agent289@company.com
+A0290,Priya Kumar,TL05,Technical Support,10,Pune,2022-01-01,Evening,agent290@company.com
+A0291,Anjali Verma,TL01,Customer Care,3,Delhi,2022-01-01,Night,agent291@company.com
+A0292,Anjali Kumar,TL03,Billing,1,Delhi,2022-01-01,Night,agent292@company.com
+A0293,Priya Verma,TL01,Customer Care,6,Pune,2022-01-01,Morning,agent293@company.com
+A0294,Amit Verma,TL07,Customer Care,12,Hyderabad,2022-01-01,Night,agent294@company.com
+A0295,Arjun Verma,TL06,Customer Care,9,Pune,2022-01-01,Evening,agent295@company.com
+A0296,Arjun Iyer,TL06,Returns,11,Chennai,2022-01-01,Night,agent296@company.com
+A0297,Pooja Verma,TL04,Returns,9,Chennai,2022-01-01,Morning,agent297@company.com
+A0298,Vikram Singh,TL04,Customer Care,6,Pune,2022-01-01,Evening,agent298@company.com
+A0299,Rohit Singh,TL05,Technical Support,10,Delhi,2022-01-01,Evening,agent299@company.com
+A0300,Amit Gupta,TL03,Returns,1,Chennai,2022-01-01,Night,agent300@company.com
+A0301,Priya Gupta,TL08,Returns,12,Pune,2022-01-01,Morning,agent301@company.com
+A0302,Neha Singh,TL05,Billing,2,Delhi,2022-01-01,Night,agent302@company.com
+A0303,Anjali Verma,TL04,Technical Support,11,Delhi,2022-01-01,Morning,agent303@company.com
+A0304,Neha Sharma,TL02,Customer Care,6,Pune,2022-01-01,Morning,agent304@company.com
+A0305,Arjun Sharma,TL03,Customer Care,11,Pune,2022-01-01,Evening,agent305@company.com
+A0306,Neha Singh,TL06,Returns,11,Hyderabad,2022-01-01,Morning,agent306@company.com
+A0307,Anjali Verma,TL01,Billing,7,Bangalore,2022-01-01,Morning,agent307@company.com
+A0308,Amit Iyer,TL03,Returns,1,Hyderabad,2022-01-01,Evening,agent308@company.com
+A0309,Anjali Reddy,TL06,Returns,8,Delhi,2022-01-01,Night,agent309@company.com
+A0310,Pooja Patel,TL08,Returns,4,Hyderabad,2022-01-01,Evening,agent310@company.com
+A0311,Arjun Iyer,TL05,Billing,1,Chennai,2022-01-01,Evening,agent311@company.com
+A0312,Anjali Verma,TL03,Customer Care,7,Delhi,2022-01-01,Evening,agent312@company.com
+A0313,Priya Kumar,TL02,Billing,3,Pune,2022-01-01,Evening,agent313@company.com
+A0314,Neha Sharma,TL05,Customer Care,4,Pune,2022-01-01,Evening,agent314@company.com
+A0315,Sneha Singh,TL01,Returns,11,Chennai,2022-01-01,Night,agent315@company.com
+A0316,Neha Sharma,TL02,Customer Care,5,Bangalore,2022-01-01,Evening,agent316@company.com
+A0317,Rohit Singh,TL02,Returns,6,Delhi,2022-01-01,Morning,agent317@company.com
+A0318,Neha Patel,TL08,Billing,8,Delhi,2022-01-01,Evening,agent318@company.com
+A0319,Amit Iyer,TL04,Billing,11,Delhi,2022-01-01,Morning,agent319@company.com
+A0320,Rohit Iyer,TL06,Technical Support,10,Hyderabad,2022-01-01,Morning,agent320@company.com
+A0321,Rohit Verma,TL03,Billing,6,Delhi,2022-01-01,Evening,agent321@company.com
+A0322,Priya Verma,TL08,Technical Support,9,Pune,2022-01-01,Morning,agent322@company.com
+A0323,Pooja Patel,TL07,Customer Care,10,Hyderabad,2022-01-01,Night,agent323@company.com
+A0324,Pooja Singh,TL01,Customer Care,5,Hyderabad,2022-01-01,Night,agent324@company.com
+A0325,Neha Reddy,TL01,Customer Care,6,Hyderabad,2022-01-01,Night,agent325@company.com
+A0326,Rahul Reddy,TL08,Technical Support,5,Pune,2022-01-01,Morning,agent326@company.com
+A0327,Arjun Kumar,TL06,Customer Care,8,Pune,2022-01-01,Evening,agent327@company.com
+A0328,Priya Patel,TL06,Technical Support,3,Delhi,2022-01-01,Evening,agent328@company.com
+A0329,Rohit Patel,TL04,Technical Support,1,Chennai,2022-01-01,Evening,agent329@company.com
+A0330,Rohit Kumar,TL07,Billing,4,Pune,2022-01-01,Evening,agent330@company.com
+A0331,Arjun Singh,TL04,Technical Support,1,Pune,2022-01-01,Night,agent331@company.com
+A0332,Rahul Verma,TL04,Technical Support,2,Delhi,2022-01-01,Morning,agent332@company.com
+A0333,Pooja Sharma,TL04,Technical Support,7,Pune,2022-01-01,Morning,agent333@company.com
+A0334,Rohit Verma,TL01,Billing,9,Chennai,2022-01-01,Morning,agent334@company.com
+A0335,Anjali Gupta,TL06,Billing,5,Bangalore,2022-01-01,Night,agent335@company.com
+A0336,Rohit Verma,TL07,Returns,5,Hyderabad,2022-01-01,Night,agent336@company.com
+A0337,Anjali Patel,TL07,Customer Care,1,Chennai,2022-01-01,Night,agent337@company.com
+A0338,Amit Gupta,TL07,Customer Care,3,Chennai,2022-01-01,Evening,agent338@company.com
+A0339,Arjun Iyer,TL04,Billing,5,Bangalore,2022-01-01,Evening,agent339@company.com
+A0340,Rahul Kumar,TL07,Billing,7,Bangalore,2022-01-01,Evening,agent340@company.com
+A0341,Neha Gupta,TL02,Customer Care,6,Hyderabad,2022-01-01,Night,agent341@company.com
+A0342,Neha Sharma,TL05,Customer Care,11,Delhi,2022-01-01,Night,agent342@company.com
+A0343,Rahul Reddy,TL04,Billing,8,Bangalore,2022-01-01,Evening,agent343@company.com
+A0344,Vikram Sharma,TL04,Billing,12,Hyderabad,2022-01-01,Night,agent344@company.com
+A0345,Pooja Verma,TL04,Customer Care,4,Delhi,2022-01-01,Evening,agent345@company.com
+A0346,Vikram Kumar,TL08,Returns,5,Chennai,2022-01-01,Evening,agent346@company.com
+A0347,Rohit Iyer,TL08,Technical Support,12,Pune,2022-01-01,Evening,agent347@company.com
+A0348,Neha Gupta,TL06,Customer Care,1,Delhi,2022-01-01,Morning,agent348@company.com
+A0349,Arjun Sharma,TL05,Customer Care,5,Bangalore,2022-01-01,Morning,agent349@company.com
+A0350,Sneha Verma,TL07,Billing,8,Delhi,2022-01-01,Night,agent350@company.com
+A0351,Sneha Singh,TL08,Customer Care,8,Bangalore,2022-01-01,Night,agent351@company.com
+A0352,Sneha Patel,TL03,Customer Care,3,Delhi,2022-01-01,Night,agent352@company.com
+A0353,Rahul Sharma,TL02,Technical Support,1,Pune,2022-01-01,Morning,agent353@company.com
+A0354,Neha Reddy,TL03,Technical Support,4,Delhi,2022-01-01,Evening,agent354@company.com
+A0355,Sneha Sharma,TL08,Customer Care,1,Hyderabad,2022-01-01,Night,agent355@company.com
+A0356,Rohit Kumar,TL01,Technical Support,9,Chennai,2022-01-01,Night,agent356@company.com
+A0357,Vikram Sharma,TL07,Billing,2,Hyderabad,2022-01-01,Night,agent357@company.com
+A0358,Arjun Verma,TL04,Returns,6,Chennai,2022-01-01,Evening,agent358@company.com
+A0359,Priya Gupta,TL07,Customer Care,10,Bangalore,2022-01-01,Night,agent359@company.com
+A0360,Neha Singh,TL02,Technical Support,2,Pune,2022-01-01,Evening,agent360@company.com
+A0361,Amit Iyer,TL01,Technical Support,12,Bangalore,2022-01-01,Morning,agent361@company.com
+A0362,Pooja Kumar,TL06,Technical Support,9,Hyderabad,2022-01-01,Morning,agent362@company.com
+A0363,Neha Iyer,TL05,Technical Support,2,Chennai,2022-01-01,Night,agent363@company.com
+A0364,Anjali Sharma,TL03,Returns,1,Bangalore,2022-01-01,Night,agent364@company.com
+A0365,Arjun Kumar,TL02,Returns,3,Delhi,2022-01-01,Morning,agent365@company.com
+A0366,Anjali Kumar,TL06,Customer Care,12,Bangalore,2022-01-01,Night,agent366@company.com
+A0367,Priya Gupta,TL01,Technical Support,7,Bangalore,2022-01-01,Morning,agent367@company.com
+A0368,Sneha Kumar,TL06,Technical Support,11,Chennai,2022-01-01,Evening,agent368@company.com
+A0369,Pooja Verma,TL06,Customer Care,7,Bangalore,2022-01-01,Night,agent369@company.com
+A0370,Anjali Kumar,TL02,Returns,4,Hyderabad,2022-01-01,Morning,agent370@company.com
+A0371,Vikram Patel,TL07,Billing,12,Pune,2022-01-01,Evening,agent371@company.com
+A0372,Sneha Reddy,TL02,Technical Support,5,Pune,2022-01-01,Evening,agent372@company.com
+A0373,Vikram Reddy,TL03,Technical Support,3,Pune,2022-01-01,Evening,agent373@company.com
+A0374,Rohit Kumar,TL02,Technical Support,2,Chennai,2022-01-01,Night,agent374@company.com
+A0375,Priya Gupta,TL07,Technical Support,5,Pune,2022-01-01,Evening,agent375@company.com
+A0376,Priya Verma,TL03,Customer Care,3,Bangalore,2022-01-01,Evening,agent376@company.com
+A0377,Vikram Singh,TL08,Billing,2,Bangalore,2022-01-01,Evening,agent377@company.com
+A0378,Vikram Kumar,TL05,Customer Care,2,Chennai,2022-01-01,Evening,agent378@company.com
+A0379,Neha Iyer,TL04,Customer Care,2,Bangalore,2022-01-01,Evening,agent379@company.com
+A0380,Rahul Kumar,TL06,Customer Care,6,Pune,2022-01-01,Evening,agent380@company.com
+A0381,Amit Patel,TL05,Returns,10,Bangalore,2022-01-01,Evening,agent381@company.com
+A0382,Sneha Patel,TL07,Returns,5,Pune,2022-01-01,Night,agent382@company.com
+A0383,Neha Gupta,TL07,Returns,7,Chennai,2022-01-01,Morning,agent383@company.com
+A0384,Anjali Verma,TL03,Technical Support,12,Pune,2022-01-01,Night,agent384@company.com
+A0385,Neha Iyer,TL05,Technical Support,7,Pune,2022-01-01,Morning,agent385@company.com
+A0386,Vikram Verma,TL05,Billing,12,Pune,2022-01-01,Evening,agent386@company.com
+A0387,Priya Iyer,TL08,Customer Care,9,Delhi,2022-01-01,Night,agent387@company.com
+A0388,Amit Sharma,TL06,Technical Support,2,Bangalore,2022-01-01,Night,agent388@company.com
+A0389,Sneha Patel,TL01,Customer Care,6,Pune,2022-01-01,Morning,agent389@company.com
+A0390,Rahul Reddy,TL05,Billing,9,Delhi,2022-01-01,Night,agent390@company.com
+A0391,Anjali Verma,TL08,Returns,7,Pune,2022-01-01,Night,agent391@company.com
+A0392,Anjali Patel,TL06,Technical Support,8,Hyderabad,2022-01-01,Evening,agent392@company.com
+A0393,Amit Reddy,TL02,Billing,6,Chennai,2022-01-01,Evening,agent393@company.com
+A0394,Pooja Verma,TL08,Returns,8,Hyderabad,2022-01-01,Evening,agent394@company.com
+A0395,Pooja Gupta,TL02,Returns,1,Hyderabad,2022-01-01,Morning,agent395@company.com
+A0396,Sneha Reddy,TL03,Billing,9,Bangalore,2022-01-01,Night,agent396@company.com
+A0397,Arjun Gupta,TL07,Customer Care,4,Pune,2022-01-01,Night,agent397@company.com
+A0398,Arjun Patel,TL07,Customer Care,1,Delhi,2022-01-01,Morning,agent398@company.com
+A0399,Pooja Kumar,TL07,Technical Support,12,Bangalore,2022-01-01,Morning,agent399@company.com
+A0400,Vikram Reddy,TL02,Billing,6,Chennai,2022-01-01,Morning,agent400@company.com
+A0401,Pooja Reddy,TL05,Customer Care,9,Chennai,2022-01-01,Night,agent401@company.com
+A0402,Amit Kumar,TL02,Returns,6,Pune,2022-01-01,Night,agent402@company.com
+A0403,Arjun Singh,TL02,Billing,6,Hyderabad,2022-01-01,Morning,agent403@company.com
+A0404,Vikram Reddy,TL03,Returns,12,Bangalore,2022-01-01,Night,agent404@company.com
+A0405,Amit Kumar,TL03,Customer Care,7,Bangalore,2022-01-01,Evening,agent405@company.com
+A0406,Rohit Patel,TL03,Customer Care,5,Bangalore,2022-01-01,Morning,agent406@company.com
+A0407,Sneha Iyer,TL01,Returns,1,Pune,2022-01-01,Morning,agent407@company.com
+A0408,Neha Kumar,TL08,Customer Care,11,Pune,2022-01-01,Evening,agent408@company.com
+A0409,Pooja Iyer,TL03,Technical Support,10,Hyderabad,2022-01-01,Morning,agent409@company.com
+A0410,Vikram Sharma,TL05,Billing,9,Chennai,2022-01-01,Morning,agent410@company.com
+A0411,Pooja Iyer,TL02,Technical Support,5,Delhi,2022-01-01,Evening,agent411@company.com
+A0412,Rohit Sharma,TL08,Billing,7,Hyderabad,2022-01-01,Night,agent412@company.com
+A0413,Neha Singh,TL01,Customer Care,5,Chennai,2022-01-01,Morning,agent413@company.com
+A0414,Pooja Reddy,TL04,Billing,12,Delhi,2022-01-01,Night,agent414@company.com
+A0415,Sneha Kumar,TL03,Billing,4,Bangalore,2022-01-01,Morning,agent415@company.com
+A0416,Anjali Gupta,TL05,Billing,6,Chennai,2022-01-01,Evening,agent416@company.com
+A0417,Anjali Singh,TL02,Billing,7,Hyderabad,2022-01-01,Evening,agent417@company.com
+A0418,Arjun Patel,TL04,Billing,12,Chennai,2022-01-01,Morning,agent418@company.com
+A0419,Amit Iyer,TL03,Returns,11,Pune,2022-01-01,Evening,agent419@company.com
+A0420,Pooja Reddy,TL02,Customer Care,9,Chennai,2022-01-01,Night,agent420@company.com
+A0421,Sneha Iyer,TL08,Returns,10,Hyderabad,2022-01-01,Night,agent421@company.com
+A0422,Priya Iyer,TL06,Technical Support,9,Pune,2022-01-01,Morning,agent422@company.com
+A0423,Amit Verma,TL08,Returns,6,Chennai,2022-01-01,Evening,agent423@company.com
+A0424,Rohit Patel,TL08,Returns,11,Hyderabad,2022-01-01,Morning,agent424@company.com
+A0425,Priya Iyer,TL01,Technical Support,3,Pune,2022-01-01,Evening,agent425@company.com
+A0426,Rahul Kumar,TL04,Billing,11,Chennai,2022-01-01,Morning,agent426@company.com
+A0427,Vikram Reddy,TL06,Returns,2,Chennai,2022-01-01,Night,agent427@company.com
+A0428,Arjun Sharma,TL07,Returns,12,Bangalore,2022-01-01,Evening,agent428@company.com
+A0429,Priya Reddy,TL01,Billing,8,Hyderabad,2022-01-01,Morning,agent429@company.com
+A0430,Anjali Verma,TL08,Technical Support,1,Chennai,2022-01-01,Morning,agent430@company.com
+A0431,Amit Patel,TL08,Technical Support,4,Pune,2022-01-01,Morning,agent431@company.com
+A0432,Priya Reddy,TL06,Returns,5,Bangalore,2022-01-01,Evening,agent432@company.com
+A0433,Arjun Patel,TL02,Technical Support,10,Bangalore,2022-01-01,Evening,agent433@company.com
+A0434,Sneha Verma,TL03,Customer Care,10,Pune,2022-01-01,Morning,agent434@company.com
+A0435,Priya Reddy,TL03,Technical Support,10,Pune,2022-01-01,Evening,agent435@company.com
+A0436,Amit Gupta,TL03,Billing,5,Hyderabad,2022-01-01,Morning,agent436@company.com
+A0437,Rohit Singh,TL01,Returns,4,Delhi,2022-01-01,Night,agent437@company.com
+A0438,Rohit Verma,TL07,Returns,11,Hyderabad,2022-01-01,Morning,agent438@company.com
+A0439,Pooja Kumar,TL02,Billing,8,Delhi,2022-01-01,Morning,agent439@company.com
+A0440,Rohit Sharma,TL06,Returns,3,Pune,2022-01-01,Night,agent440@company.com
+A0441,Amit Gupta,TL03,Customer Care,2,Hyderabad,2022-01-01,Night,agent441@company.com
+A0442,Priya Sharma,TL05,Billing,1,Hyderabad,2022-01-01,Evening,agent442@company.com
+A0443,Rohit Singh,TL07,Customer Care,12,Pune,2022-01-01,Morning,agent443@company.com
+A0444,Rohit Patel,TL05,Technical Support,5,Hyderabad,2022-01-01,Night,agent444@company.com
+A0445,Neha Patel,TL06,Customer Care,10,Hyderabad,2022-01-01,Evening,agent445@company.com
+A0446,Amit Verma,TL01,Billing,2,Pune,2022-01-01,Morning,agent446@company.com
+A0447,Pooja Sharma,TL05,Billing,2,Hyderabad,2022-01-01,Night,agent447@company.com
+A0448,Arjun Sharma,TL03,Customer Care,6,Delhi,2022-01-01,Night,agent448@company.com
+A0449,Vikram Patel,TL06,Billing,12,Chennai,2022-01-01,Night,agent449@company.com
+A0450,Priya Sharma,TL06,Customer Care,5,Delhi,2022-01-01,Morning,agent450@company.com
+A0451,Vikram Reddy,TL08,Customer Care,9,Chennai,2022-01-01,Morning,agent451@company.com
+A0452,Pooja Patel,TL06,Billing,5,Hyderabad,2022-01-01,Night,agent452@company.com
+A0453,Priya Verma,TL01,Technical Support,1,Bangalore,2022-01-01,Morning,agent453@company.com
+A0454,Pooja Gupta,TL07,Billing,3,Hyderabad,2022-01-01,Night,agent454@company.com
+A0455,Amit Verma,TL06,Billing,7,Chennai,2022-01-01,Evening,agent455@company.com
+A0456,Priya Gupta,TL02,Technical Support,3,Bangalore,2022-01-01,Night,agent456@company.com
+A0457,Rahul Kumar,TL02,Customer Care,5,Chennai,2022-01-01,Evening,agent457@company.com
+A0458,Priya Iyer,TL01,Returns,4,Chennai,2022-01-01,Night,agent458@company.com
+A0459,Vikram Verma,TL08,Returns,10,Pune,2022-01-01,Morning,agent459@company.com
+A0460,Rohit Verma,TL03,Technical Support,7,Hyderabad,2022-01-01,Morning,agent460@company.com
+A0461,Rohit Gupta,TL01,Returns,1,Pune,2022-01-01,Night,agent461@company.com
+A0462,Vikram Reddy,TL04,Billing,7,Pune,2022-01-01,Morning,agent462@company.com
+A0463,Arjun Singh,TL02,Technical Support,4,Delhi,2022-01-01,Evening,agent463@company.com
+A0464,Sneha Iyer,TL02,Technical Support,9,Bangalore,2022-01-01,Night,agent464@company.com
+A0465,Amit Reddy,TL01,Customer Care,11,Bangalore,2022-01-01,Morning,agent465@company.com
+A0466,Vikram Singh,TL06,Customer Care,12,Chennai,2022-01-01,Evening,agent466@company.com
+A0467,Pooja Singh,TL04,Technical Support,4,Bangalore,2022-01-01,Night,agent467@company.com
+A0468,Priya Patel,TL02,Billing,8,Pune,2022-01-01,Evening,agent468@company.com
+A0469,Amit Reddy,TL06,Billing,8,Chennai,2022-01-01,Evening,agent469@company.com
+A0470,Vikram Reddy,TL02,Billing,11,Chennai,2022-01-01,Night,agent470@company.com
+A0471,Anjali Sharma,TL04,Returns,3,Hyderabad,2022-01-01,Night,agent471@company.com
+A0472,Neha Gupta,TL07,Technical Support,11,Chennai,2022-01-01,Evening,agent472@company.com
+A0473,Arjun Sharma,TL07,Customer Care,9,Delhi,2022-01-01,Morning,agent473@company.com
+A0474,Priya Iyer,TL02,Billing,2,Hyderabad,2022-01-01,Morning,agent474@company.com
+A0475,Neha Patel,TL04,Customer Care,6,Hyderabad,2022-01-01,Night,agent475@company.com
+A0476,Anjali Singh,TL02,Technical Support,2,Bangalore,2022-01-01,Night,agent476@company.com
+A0477,Pooja Patel,TL02,Returns,2,Hyderabad,2022-01-01,Evening,agent477@company.com
+A0478,Rahul Patel,TL07,Customer Care,8,Hyderabad,2022-01-01,Evening,agent478@company.com
+A0479,Amit Patel,TL06,Billing,3,Chennai,2022-01-01,Evening,agent479@company.com
+A0480,Pooja Patel,TL01,Billing,11,Chennai,2022-01-01,Evening,agent480@company.com
+A0481,Amit Iyer,TL01,Technical Support,5,Pune,2022-01-01,Morning,agent481@company.com
+A0482,Amit Verma,TL04,Technical Support,7,Chennai,2022-01-01,Evening,agent482@company.com
+A0483,Rohit Iyer,TL06,Returns,7,Chennai,2022-01-01,Morning,agent483@company.com
+A0484,Rahul Gupta,TL04,Technical Support,5,Hyderabad,2022-01-01,Evening,agent484@company.com
+A0485,Rohit Gupta,TL04,Billing,2,Bangalore,2022-01-01,Night,agent485@company.com
+A0486,Neha Singh,TL01,Billing,10,Pune,2022-01-01,Evening,agent486@company.com
+A0487,Arjun Patel,TL04,Returns,12,Chennai,2022-01-01,Night,agent487@company.com
+A0488,Rahul Gupta,TL03,Billing,8,Delhi,2022-01-01,Evening,agent488@company.com
+A0489,Arjun Iyer,TL01,Technical Support,1,Bangalore,2022-01-01,Night,agent489@company.com
+A0490,Neha Sharma,TL08,Technical Support,6,Delhi,2022-01-01,Morning,agent490@company.com
+A0491,Arjun Gupta,TL03,Returns,1,Hyderabad,2022-01-01,Morning,agent491@company.com
+A0492,Anjali Patel,TL02,Returns,2,Chennai,2022-01-01,Night,agent492@company.com
+A0493,Amit Reddy,TL06,Returns,6,Bangalore,2022-01-01,Morning,agent493@company.com
+A0494,Amit Iyer,TL06,Billing,12,Delhi,2022-01-01,Night,agent494@company.com
+A0495,Anjali Gupta,TL04,Billing,7,Chennai,2022-01-01,Night,agent495@company.com
+A0496,Vikram Patel,TL03,Technical Support,12,Delhi,2022-01-01,Evening,agent496@company.com
+A0497,Anjali Sharma,TL03,Returns,10,Bangalore,2022-01-01,Night,agent497@company.com
+A0498,Anjali Reddy,TL08,Billing,6,Hyderabad,2022-01-01,Morning,agent498@company.com
+A0499,Sneha Gupta,TL03,Technical Support,12,Chennai,2022-01-01,Evening,agent499@company.com
+A0500,Rahul Singh,TL04,Billing,12,Hyderabad,2022-01-01,Evening,agent500@company.com
