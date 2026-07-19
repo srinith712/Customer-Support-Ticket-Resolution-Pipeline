@@ -8,10 +8,10 @@ team scope filter, Day-2 carry-over), and produces Gold-layer KPIs for leadershi
 Bronze (raw ingestion) → Silver (cleaning + business rules) → Gold (aggregated KPIs)
 
 ## Notebooks
-- `00_config` — shared config and table names
-- `01_bronze_ingestion` — reads CSVs from Unity Catalog Volume, writes Bronze tables
-- `02_silver_transformation` — joins, filters, applies business rules
-- `03_gold_aggregation` — computes final KPIs
+- `Config` — shared config and table names
+- `bronze_ingestion` — reads CSVs from Unity Catalog Volume, writes Bronze tables
+- `silver_transformation` — joins, filters, applies business rules
+- `gold_aggregation` — computes final KPIs
 
 ## Business Rules
 See full documentation in `docs/Customer_Support_Pipeline_Documentation.docx`
