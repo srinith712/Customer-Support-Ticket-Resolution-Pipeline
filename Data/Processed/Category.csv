@@ -1,0 +1,9 @@
+category,ticket_count,avg_resolution_minutes
+Account,3543,96.4
+Billing,3519,97.49
+Payment,3483,96.33
+Refund,3650,98.94
+Returns,3594,99.39
+Shipping,3579,98.16
+Technical,3444,97.12
+Warranty,3480,96.49
